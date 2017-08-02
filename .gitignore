@@ -1,4 +1,4 @@
-test_*
+./test_*
 *.dylib
 CMakeCache*
 CMakeFiles
