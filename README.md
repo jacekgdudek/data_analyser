@@ -8,7 +8,7 @@ Each line opf the output represents comma-seperated:
   - average of all the numbers to line
   
 ## How to build
-###OSX
+### OSX
 - Install homebrew
   `https://brew.sh/`
 - Install CMake
