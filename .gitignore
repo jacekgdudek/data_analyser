@@ -1,4 +1,7 @@
 ./test_*
 *.dylib
+*.cmake
 CMakeCache*
 CMakeFiles
+Testing
+Makefile
