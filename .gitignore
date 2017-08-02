@@ -1,0 +1,4 @@
+test_*
+*.dylib
+CMakeCache*
+CMakeFiles
